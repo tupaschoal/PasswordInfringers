@@ -4,6 +4,7 @@ PasswordInfringers
 Lists all sites that possibly store your password as plaintext, which you discover when signing-up or "forgetting" your password.
 
 [![Build Status](https://travis-ci.org/tupaschoal/PasswordInfringers.svg?branch=master)](https://travis-ci.org/tupaschoal/PasswordInfringers)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0018a50870fb4f15b677ea983207823e)](https://www.codacy.com/app/tupaschoal/PasswordInfringers?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tupaschoal/PasswordInfringers&amp;utm_campaign=Badge_Grade)
 
 # Contributing
 
