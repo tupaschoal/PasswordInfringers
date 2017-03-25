@@ -3,6 +3,8 @@ PasswordInfringers
 
 Lists all sites that possibly store your password as plaintext, which you discover when signing-up or "forgetting" your password.
 
+[![Build Status](https://travis-ci.org/tupaschoal/PasswordInfringers.svg?branch=master)](https://travis-ci.org/tupaschoal/PasswordInfringers)
+
 # Contributing
 
 The sites, urls and additional notes are stored in `sites.json`. If you want to add a site to the list you'll need the following information:
